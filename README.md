@@ -1,3 +1,9 @@
+
+***my change viper read config from `$HOME/.config.yaml` ot `./.config.yaml`
+
+in  command: 
+`cobra init --viper`
+
 # Cobra Generator
 
 Cobra provides its own program that will create your application and add any
